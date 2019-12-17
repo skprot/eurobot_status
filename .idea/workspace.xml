@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd15e1f9-ef07-48d8-9835-e8e86cd330f3" name="Default Changelist" comment="" />
+    <list default="true" id="fd15e1f9-ef07-48d8-9835-e8e86cd330f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot_commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot_commands/main_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/eurobotstatus/main_robot.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V5EIKuKgosJIiV4gVnwb1jN76p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +33,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eurobotstatus" />
+      <recent name="$PROJECT_DIR$/eurobotstatus/protocol_commands" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/robot_commands" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,6 +78,10 @@
       <screen x="81" y="24" width="2479" height="1416" />
     </state>
     <state x="1037" y="524" key="#com.intellij.fileTypes.FileTypeChooser/81.24.2479.1416@81.24.2479.1416" timestamp="1576534541423" />
+    <state x="1108" y="477" key="FileChooserDialogImpl" timestamp="1576539295095">
+      <screen x="81" y="24" width="2479" height="1416" />
+    </state>
+    <state x="1108" y="477" key="FileChooserDialogImpl/81.24.2479.1416@81.24.2479.1416" timestamp="1576539295095" />
     <state x="814" y="354" key="SettingsEditor" timestamp="1576534599357">
       <screen x="81" y="24" width="2479" height="1416" />
     </state>
